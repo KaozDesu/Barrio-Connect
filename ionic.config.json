@@ -1,0 +1,7 @@
+{
+  "name": "barrio-connect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
